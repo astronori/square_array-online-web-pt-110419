@@ -1,4 +1,4 @@
-def sq(arr)
+def squared_array
   enum = arr.each
   a = []
   loop do

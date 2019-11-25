@@ -7,5 +7,5 @@ def squared_array
   end
   a
 end
-sq [1, 2, 3]
+square [1, 2, 3]
   #=> [1, 4, 9]
